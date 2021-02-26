@@ -1,0 +1,7 @@
+Verchina x=50  y=50
+Verchina x=100  y=200
+Verchina x=250  y=350
+Verchina x=450  y=350
+
+
+
