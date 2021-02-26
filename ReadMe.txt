@@ -3,6 +3,10 @@
 ================================================== =======================
 
 
+I did the project as a term paper.
+The file name of the file stores the points by which the program builds the polygon.
+It is interesting in that, regardless of the order of the points in the file, the figure is built correctly.
+
 Yakov has created this Figure  application for you. This application
 not only demonstrates the basics of using the Microsoft Foundation classes
 but is also a starting point for writing your application.
